@@ -4,7 +4,7 @@
  *
  * @since         2.0.0
  * @package       Disposable_Email_Blocker_Ninja_Forms
- * @subpackage    Disposable_Email_Blocker_Ninja_Forms/includes
+ * @subpackage    Disposable_Email_Blocker_Ninja_Forms/admin/views
  * @author        Sajjad Hossain Sagor <sagorh672@gmail.com>
  */
 
