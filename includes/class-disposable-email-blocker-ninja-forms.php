@@ -73,10 +73,10 @@ class Disposable_Email_Blocker_Ninja_Forms {
 	 *
 	 * Include the following files that make up the plugin:
 	 *
-	 * - Disposable_Email_Blocker_Ninja_Forms_Loader.  Orchestrates the hooks of the plugin.
-	 * - Disposable_Email_Blocker_Ninja_Forms_i18n.    Defines internationalization functionality.
-	 * - Disposable_Email_Blocker_Ninja_Forms_Admin.   Defines all hooks for the admin area.
-	 * - Disposable_Email_Blocker_Ninja_Forms_Public.  Defines all hooks for the public side of the site.
+	 * - Disposable_Email_Blocker_Ninja_Forms_Loader. Orchestrates the hooks of the plugin.
+	 * - Disposable_Email_Blocker_Ninja_Forms_i18n.   Defines internationalization functionality.
+	 * - Disposable_Email_Blocker_Ninja_Forms_Admin.  Defines all hooks for the admin area.
+	 * - Disposable_Email_Blocker_Ninja_Forms_Public. Defines all hooks for the public side of the site.
 	 *
 	 * Create an instance of the loader which will be used to register the hooks
 	 * with WordPress.
