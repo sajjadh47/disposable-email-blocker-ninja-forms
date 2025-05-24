@@ -1,5 +1,7 @@
 # Disposable Email Blocker - Ninja Forms
 
+[![Plugin Banner](https://ps.w.org/disposable-email-blocker-ninja-forms/assets/banner-772x250.png)](https://wordpress.org/plugins/disposable-email-blocker-ninja-forms/)
+
 **Tags:** disposable-email-blocker, temporary-email-blocker, blocker, temporary-email, ninja-forms \
 **Tested up to:** 6.8 \
 **Requires PHP:** 8.0
