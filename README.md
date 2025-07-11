@@ -62,6 +62,9 @@ Just after installing Disposable Email Blocker - Ninja Forms plugin, create or e
 
 ## Changelog
 
+### 2.0.2
+- Fixed fatal error when uninstalling
+
 ### 2.0.1
 - Checked for latest wp version 6.8
 

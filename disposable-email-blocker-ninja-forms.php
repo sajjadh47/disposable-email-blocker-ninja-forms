@@ -13,7 +13,7 @@
  * Plugin Name:       Disposable Email Blocker - Ninja Forms
  * Plugin URI:        https://wordpress.org/plugins/disposable-email-blocker-ninja-forms/
  * Description:       Block Spammy Disposable/Temporary Emails From Submitting On Ninja Forms.
- * Version:           2.0.1
+ * Version:           2.0.2
  * Requires at least: 6.5
  * Requires PHP:      8.0
  * Author:            Sajjad Hossain Sagor
@@ -33,7 +33,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 /**
  * Currently plugin version.
  */
-define( 'DISPOSABLE_EMAIL_BLOCKER_NINJA_FORMS_PLUGIN_VERSION', '2.0.1' );
+define( 'DISPOSABLE_EMAIL_BLOCKER_NINJA_FORMS_PLUGIN_VERSION', '2.0.2' );
 
 /**
  * Define Plugin Folders Path
