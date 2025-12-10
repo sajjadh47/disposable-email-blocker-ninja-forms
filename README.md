@@ -3,7 +3,7 @@
 [![Plugin Banner](https://ps.w.org/disposable-email-blocker-ninja-forms/assets/banner-772x250.png)](https://wordpress.org/plugins/disposable-email-blocker-ninja-forms/)
 
 **Tags:** disposable-email-blocker, temporary-email-blocker, blocker, temporary-email, ninja-forms \
-**Tested up to:** 6.8 \
+**Tested up to:** 6.9 \
 **Requires PHP:** 8.0
 
 Block Disposable/Temporary Spam Emails On Any Ninja Forms From Submitting.
@@ -61,6 +61,9 @@ Just after installing Disposable Email Blocker - Ninja Forms plugin, create or e
 
 
 ## Changelog
+
+### 2.0.3
+- Compatibility checkup for latest wp version 6.9
 
 ### 2.0.2
 - Fixed fatal error when uninstalling
